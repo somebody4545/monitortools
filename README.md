@@ -1,5 +1,6 @@
 # Multi Monitor Tools (currently WIP)
 ## An app with a giant collection of tools regarding multiple monitors
+<<<<<<< Updated upstream
 [![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)](https://python.org/)
 [![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)
@@ -7,6 +8,12 @@
 
 
 
+=======
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[![License](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+>>>>>>> Stashed changes
 ## Why?
 I love solutions like F.lux for dealing with working on late nights, but one thing that it doesn't solve is brightness.
 Sometimes when working late nights, I need to lower my brightness. But guess what? I've got to individually adjust each monitor to the right setting.
