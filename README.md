@@ -21,7 +21,7 @@ And now, DCR (Dynamic Contrast Ratio), the thing most people turn off because it
 But when I'm watching a video or playing a game, It looks so much better. 
 
 ## Running the app
-On Windows, start it with run.vbs. If that doesn't work, install prequisites, try again. If it still doesn't work, install packages and run main.py manually.
+On Windows, start it with `run.vbs`. If that doesn't work, install prequisites, try again. If it still doesn't work, install packages and run `main.py` manually.
 
 ## Prerequisites 
 - Python 3.12 (should still work on some older versions)
